@@ -1,4 +1,4 @@
-markdown: kramdown
+markdown: GFM
 theme: minima  # Optional, change if needed
 title: Otaku Docs
 description: Privacy Policy and Documentation
